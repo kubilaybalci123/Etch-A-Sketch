@@ -1,0 +1,26 @@
+#container {
+  width: 480px;
+  height: 480px;
+  border: 3px solid black;
+  margin: 20px auto;
+  background-color: white;
+}
+
+body {
+  background-color: #ADF088;
+  background-image: url("background.jpg");
+  text-align: center;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: brown;
+}
+
+.bttns {
+  background-color: rgb(221, 123, 52);
+  color: white;
+  height: 30px;
+  width: 80px;
+}
+
+.title {
+  background-color: #FED89F;
+}
